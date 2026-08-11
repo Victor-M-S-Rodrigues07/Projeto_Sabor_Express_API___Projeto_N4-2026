@@ -1,6 +1,6 @@
 from models.restaurante import Restaurante
-from models.cardápio.bebida import Bebida
-from models.cardápio.prato import Prato
+from models.cardapio.bebida import Bebida
+from models.cardapio.prato import Prato
 
 restaurante_praca = Restaurante ("Praça", "Gourmet")
 restaurante_mexicano = Restaurante ("Mexican Food", "Mexicana")
@@ -14,7 +14,7 @@ restaurante_indiano = Restaurante ("Indiana", "Indiana")
 restaurante_frances = Restaurante ("Francesa", "Francesa")
 
 bebida_suco = Bebida ("Suco de Melancia", 5.0, "Grande")
-prato_paozinho = Prato ("Paozinho", 2.00, "O melhor pão da cidade")
+prato_paozinho = Prato ('Paozinho', 2.00, "O melhor pão da cidade")
 
 
 
