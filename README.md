@@ -6,9 +6,9 @@
 
 </div> -->
 
-### Status do Projeto: Em Andamento (2%) 🚧 <br>
+### Status do Projeto: Em Andamento (10%) 🚧 <br>
 
-*Início em 11/08/2026*
+*Início em 25/08/2026*
 
 ## 🗂 Sumário
 

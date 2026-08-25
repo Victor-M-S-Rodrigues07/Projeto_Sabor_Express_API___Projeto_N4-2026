@@ -1,4 +1,4 @@
-from atividades_curso.atividade-N1.banco import Banco
+from Atividades_Curso.Atividade_N1.Banco.banco import Banco
 
 class Agencia (Banco):
 
