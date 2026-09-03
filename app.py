@@ -14,7 +14,13 @@ restaurante_indiano = Restaurante ("Indiana", "Indiana")
 restaurante_frances = Restaurante ("Francesa", "Francesa")
 
 bebida_suco = Bebida ("Suco de Melancia", 5.0, "Grande")
+bebida_suco.aplicar_desconto()
+
 prato_paozinho = Prato ('Paozinho', 2.00, "O melhor pão da cidade")
+prato_paozinho.aplicar_desconto()
+
+restaurante_praca.adicionar_item_no_cardapio (bebida_suco)
+restaurante_praca.adicionar_item_no_cardapio (prato_paozinho)
 
 
 
@@ -38,8 +44,7 @@ prato_paozinho = Prato ('Paozinho', 2.00, "O melhor pão da cidade")
 
 def main ():
 
-    print (bebida_suco)
-    print (prato_paozinho)
+    restaurante_praca.cardapio_exibicao
     
 if __name__ == "__main__":
 

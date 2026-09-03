@@ -6,7 +6,7 @@
 
 </div> -->
 
-### Status do Projeto: Em Andamento (20%) 🚧 <br>
+### Status do Projeto: Em Andamento (30%) 🚧 <br>
 
 *´Última Atualização 03/09/2026*
 
