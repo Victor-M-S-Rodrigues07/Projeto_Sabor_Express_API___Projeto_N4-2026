@@ -6,9 +6,9 @@
 
 </div> -->
 
-### Status do Projeto: Em Andamento (10%) 🚧 <br>
+### Status do Projeto: Em Andamento (20%) 🚧 <br>
 
-*Início em 25/08/2026*
+*´Última Atualização 03/09/2026*
 
 ## 🗂 Sumário
 
@@ -112,11 +112,27 @@ python3 main.py
 *🚧 Em construção 🚧*
 
 ```
-/atividades_curso
+/Atividades_Curso
+    /Atividade_N1
+        /Banco
+            banco.py
+            agencia.py
+
+        /Veiculos
+            carro.py
+            main.py
+            moto.py
+            veiculo.py
 
 /imgs
 
 /models
+
+    /cardapio
+        item_cardapio.py
+        prato.py
+        bebida.py
+
     avaliacao.py
     restaurante.py
 
