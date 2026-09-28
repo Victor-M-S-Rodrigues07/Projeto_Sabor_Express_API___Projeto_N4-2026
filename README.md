@@ -8,7 +8,7 @@
 
 ### Status do Projeto: Em Andamento (30%) 🚧 <br>
 
-*´Última Atualização 03/09/2026*
+*´Última Atualização 21/09/2026*
 
 ## 🗂 Sumário
 

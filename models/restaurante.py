@@ -92,6 +92,8 @@ class Restaurante:
         return media
     
 
+
+
     def adicionar_item_no_cardapio (self, item):
 
         if isinstance (item, ItemCardapio):
@@ -99,20 +101,20 @@ class Restaurante:
             self._cardapio.append (item)
 
 
-    @property       # Para leitura, deixou-se como propriedade, não é uma ação, é um atributo do restaurante.
+    @property       # Para leitura, deixou-se como propriedade, pois não é uma ação, é um atributo do restaurante.
 
     def cardapio_exibicao (self):
 
         print (f"Cardápio do Restaurante {self._nome}\n")
 
-        for index, item in enumerate (self._cardapio, 1):
+        for index, item in enumerate (self._cardapio, start = 1):
 
             if hasattr (item, 'descricao'):
 
-                mensagem_prato = f"{index}. Nome:{item._nome} | Preço: R${item._preco} | Descrição: {item.descricao}"
+                mensagem_prato = f"{index}. Nome: {item._nome} | Preço: R${item._preco} | Descrição: {item.descricao}"
                 print (mensagem_prato)
 
             else:
 
-                mensagem_bebida = f"{index}. Nome:{item._nome} | Preço: R${item._preco} | Tamanho: {item.tamanho}"
+                mensagem_bebida = f"{index}. Nome: {item._nome} | Preço: R${item._preco} | Tamanho: {item.tamanho}"
                 print (mensagem_bebida)
