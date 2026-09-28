@@ -10,4 +10,4 @@ class Carro (Veiculo):
 
     def __str__ (self):
 
-        return f"{super().__str__()} \nTipo da moto: {self.tipo}"
+        return f"{super().__str__()} \nQuantidade de portas: {self.quantidade_portas}"
