@@ -1,4 +1,4 @@
-from Atividades_Curso.Atividade_N1.Veiculos.veiculo import Veiculo
+from Atividades.Atividade_N1.Veiculos.veiculo import Veiculo
 
 class Moto (Veiculo):
 

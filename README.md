@@ -6,9 +6,9 @@
 
 </div> -->
 
-### Status do Projeto: Em Andamento (30%) 🚧 <br>
+### Status do Projeto: Em Andamento (55%) 🚧 <br>
 
-*´Última Atualização 21/09/2026*
+*´Última Atualização 04/11/2026 - Adicionado a VENV*
 
 ## 🗂 Sumário
 
@@ -136,7 +136,16 @@ python3 main.py
     avaliacao.py
     restaurante.py
 
+/VENV - Estudos
+    /venv   (oculta por motivos de segurança)
+        /Include
+        /Lib
+        /Scripts
+        .gitignore
+        pyvenv.cfg
+    requirements.txt (temporário)
 .gitignore
+
 app.py
 README.md
 ```

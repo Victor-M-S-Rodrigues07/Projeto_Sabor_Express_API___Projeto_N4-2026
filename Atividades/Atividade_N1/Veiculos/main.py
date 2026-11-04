@@ -1,5 +1,5 @@
-from Atividades_Curso.Atividade_N1.Veiculos.carro import Carro
-from Atividades_Curso.Atividade_N1.Veiculos.moto import Moto
+from Atividades.Atividade_N1.Veiculos.carro import Carro
+from Atividades.Atividade_N1.Veiculos.moto import Moto
 
 def main():
 
