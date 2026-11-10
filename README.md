@@ -6,9 +6,9 @@
 
 </div> -->
 
-### Status do Projeto: Em Andamento (55%) 🚧 <br>
+### Status do Projeto: Em Andamento (63%) 🚧 <br>
 
-*´Última Atualização 04/11/2026 - Adicionado a VENV*
+*´Última Atualização 10/11/2026 - Aprendendo os Requests*
 
 ## 🗂 Sumário
 
@@ -110,6 +110,9 @@ python3 main.py
 ## 📂 Estrutura do Projeto
 
 *🚧 Em construção 🚧*
+<br>
+
+### Projeto Nº1
 
 ```
 /Atividades_Curso
@@ -136,19 +139,29 @@ python3 main.py
     avaliacao.py
     restaurante.py
 
-/VENV - Estudos
-    /venv   (oculta por motivos de segurança)
-        /Include
-        /Lib
-        /Scripts
-        .gitignore
-        pyvenv.cfg
-    requirements.txt (temporário)
 .gitignore
 
 app.py
 README.md
 ```
+<br>
+
+
+### Projeto Nº2 - Estudos com VENV
+
+```
+
+venv   (os dados foram ocultos por motivos de segurança)
+    /Include
+        /Lib
+        /Scripts
+        pyvenv.cfg
+    
+app.py
+.gitignore
+requirements.txt
+```
+<br>
 
 ## ✨Autor
 
